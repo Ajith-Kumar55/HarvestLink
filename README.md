@@ -140,6 +140,6 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-Developed by **Ajith Kumar**
+Developed by **Ajith Kumar,Adithya**
 
 If you found this project helpful, please consider ⭐ starring the repository.
